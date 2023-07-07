@@ -26,7 +26,16 @@ Self-written Assignments (course 3 and 5 not included)
 
 ### Other useful references and resources (some of them are in Mandarin):
 
-$\color{green}{https://blog.csdn.net/red_stone1/article/details/80207815}$
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+- https://blog.csdn.net/red_stone1/article/details/80207815
+```
+
+- https://blog.csdn.net/red_stone1/article/details/80207815
 
 #### 2. https://zhuanlan.zhihu.com/p/354386182?utm_id=0
 #### 3. https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/
