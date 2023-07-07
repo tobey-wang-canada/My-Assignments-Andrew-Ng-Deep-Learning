@@ -27,19 +27,14 @@ Self-written Assignments (course 3 and 5 not included)
 ### Other useful references and resources (some of them are in Mandarin):
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 - https://blog.csdn.net/red_stone1/article/details/80207815
+- https://www.youtube.com/@BadriAdhikari1/videos
+- https://so.csdn.net/so/search?q=%E7%99%BD%E8%AF%9D&t=blog&u=dongjinkun
+- https://www.zhihu.com/people/su-qian-24-78/posts
 ```
 
-- https://blog.csdn.net/red_stone1/article/details/80207815
-
-#### 2. https://zhuanlan.zhihu.com/p/354386182?utm_id=0
-#### 3. https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/
-#### 4. https://www.youtube.com/@BadriAdhikari1/videos
-#### 5. https://www.jianshu.com/p/6e405cecd609
-#### 6. https://so.csdn.net/so/search?q=%E7%99%BD%E8%AF%9D&t=blog&u=dongjinkun
-####
+#### 1. https://zhuanlan.zhihu.com/p/354386182?utm_id=0
+#### 2. https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/
+#### 3. https://www.jianshu.com/p/6e405cecd609
+#### 4. https://zhuanlan.zhihu.com/p/340286730
+#### 5. https://zhuanlan.zhihu.com/p/461592297
