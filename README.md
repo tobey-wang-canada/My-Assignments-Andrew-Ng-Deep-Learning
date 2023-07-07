@@ -25,7 +25,9 @@ Self-written Assignments (course 3 and 5 not included)
 #### No assignments / assignments are not included
 
 ### Other useful references and resources (some of them are in Mandarin):
-#### 1. $\color{green}{https://blog.csdn.net/red_stone1/article/details/80207815}$
+
+$\color{green}{https://blog.csdn.net/red_stone1/article/details/80207815}$
+
 #### 2. https://zhuanlan.zhihu.com/p/354386182?utm_id=0
 #### 3. https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/
 #### 4. https://www.youtube.com/@BadriAdhikari1/videos
